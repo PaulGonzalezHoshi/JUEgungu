@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e4fdf2edf10b17744a3613e771fa6f1d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _SET_Floor_021: {fileID: 2800000, guid: 01fc1caec1219f54d90c707c7b1ce75e, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
